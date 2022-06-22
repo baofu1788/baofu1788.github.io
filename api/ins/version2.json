@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "insaver",
+      "versioncode": "2022042420",
+      "versionname": "1.6.4",
+      "content": "version:1.6.4\n1.bugfixs",
+      "url": "https://play.google.com/store/apps/details?id=instagram.insaver.igtv.repost",
+      "id": "instagram.insaver.igtv.repost",
+      "force_version": "0"
+    },
+    {
+      "name": "insget",
+      "versioncode": "2022040420",
+      "versionname": "1.0.0",
+      "content": "bugfixs",
+      "url": "https://play.google.com/store/apps/details?id=instagram.insget.story.video.downloader",
+      "id": "instagram.insget.story.video.downloader",
+      "force_version": "0"
+    }
+  ]
+}
